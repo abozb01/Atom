@@ -2,8 +2,9 @@
 using namespace std;
 
 
-/* Write a program to find the remainder when an integer A is divided by an integer B.
 
+/* Write a program to find the remainder when an integer A is divided by an integer B.
+//sdcsdc
 Input
 The first line contains an integer T, the total number of test cases. Then T lines follow, each line contains two Integers A and B.
 
